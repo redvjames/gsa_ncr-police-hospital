@@ -1,2 +1,5 @@
 # gsa_ncr-police-hospital
 A Project for Introduction to Geospatial Analysis Course of Asian Institute of Management's Master of Science in Data Science 2023 
+
+Road accidents are frequent and regrettable incidents that can lead to severe consequences, such as injuries, damage to property, and even loss of life. For example, in Metro Manila alone, 17,257 recorded vehicular accidents occurred from August 2018 to December 2020. In such emergencies, the need for a faster response time from the local police authorities and emergency vehicles is critical to saving the lives of those who have incurred casualties during a road accident. This paper study aims to help improve the response time of police and ambulance services through Geospatial Analysis techniques. Using the maximum response time of eight (8) minutes at 15 kph speed, the results show that an additional one (1) police station and three (3) hospital locations are needed to fully cover the hotspot areas or areas with frequent road accidents. However, this analysis does not consider road networks, and other considerations can be made to improve the study further.
+
